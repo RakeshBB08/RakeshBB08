@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RakeshBB08
-- 👀 I’m interested in Artificial intelligence, Machine learning
+- 👀 I’m interested in Artificial intelligence, Machine learning,Web-development
 - 🌱 I’m currently learning basics of AI and programing languages
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me: rakeshbb108@gmail.com
